@@ -1,6 +1,6 @@
 {
   "name": "breaklines",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A utility to easily replace \\n with <br> in single-line strings (such as from JSON data)",
   "main": "index.js",
   "scripts": {
