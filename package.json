@@ -1,0 +1,16 @@
+{
+  "name": "breaklines",
+  "version": "1.0.0",
+  "description": "A utility to easily replace \\n with <br> in single-line strings (such as from JSON data)",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "keywords": [
+    "newline",
+    "breakline",
+    "line-break"
+  ],
+  "author": "Nathan Thomas <nathan@gingeronline.co.uk> (https://gingeronline.co.uk)",
+  "license": "ISC"
+}
