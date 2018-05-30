@@ -1,5 +1,6 @@
 # Breaklines  
 > A simple utility to add <br> tags into strings containing \n.  
+
 Created as my first NPM module, I've needed to create this when building static sites through Wintersmith, as when creating pages via .json files the newlines were not displayed.  
 Calling this function allowed them to be displayed correctly.
 
