@@ -6,7 +6,7 @@ Calling this function allowed them to be displayed correctly.
 
 ## Install
 ```
-$ npm install newlines --save
+$ npm install breaklines --save
 ```
 
 ## Usage
