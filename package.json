@@ -16,5 +16,9 @@
     "line-break"
   ],
   "author": "Nathan Thomas <nathan@gingeronline.co.uk> (https://gingeronline.co.uk)",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NTpspE/breaklines/issues"
+  },
+  "homepage": "https://github.com/NTpspE/breaklines"
 }
